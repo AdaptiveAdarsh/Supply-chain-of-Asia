@@ -1,2 +1,2 @@
 # Supply-chain-of-Asia
-late elivery risk prediction
+late delivery risk prediction
