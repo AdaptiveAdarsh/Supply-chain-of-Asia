@@ -1,2 +1,2 @@
 # Supply-chain-of-Asia
-late delivery risk prediction
+In a supply chain management system, there is a need to predict the likelihood of late deliveries for each order or shipment. Late deliveries are defined as those that do not meet the expected delivery date. The prediction will be based on various features related to the order, such as historical performance, transportation, vendor reliability, and external factors (e.g., weather, holidays, or transportation strikes).
